@@ -1,1 +1,0 @@
-# mangoWC-config
